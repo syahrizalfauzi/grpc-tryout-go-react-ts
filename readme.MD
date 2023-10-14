@@ -1,3 +1,6 @@
+# gRPC Tryout
+This is a simple gRPC project with Go as the backend and React (TypeScript) as the frontend, and Envoy as the proxy to translate HTTP 1 request from frontend to HTTP 2 message to the backend
+
 ## Ports
 `9901` : Envoy
 
