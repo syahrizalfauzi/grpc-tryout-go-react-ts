@@ -1,0 +1,1 @@
+cd frontend-react-ts && npm run gen
